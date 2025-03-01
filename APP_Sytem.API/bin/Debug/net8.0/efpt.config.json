@@ -1,0 +1,225 @@
+﻿{
+   "CodeGenerationMode": 5,
+   "ContextClassName": "C:\\App_System\\App_System_Banco\\bancoSQLite.dbContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "APP_Sytem.API",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "tb_ator",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_categoria_produto",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_certificado_digital",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_clasCont1",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_clasCont2",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_codigo_produto",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_cont",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_contExt",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_contExtGru",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_contExtSec",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_contExtSubGru",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_contGru",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_contSec",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_contSubGru",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_est",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_estados_br",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_forma_pagamento",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_historico",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_jornada",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_marca_produto",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_matriz",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_movimentacao",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_movimentacao_caixa",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_movimentacao_impressao",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_movimentacao_pagamento",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_movimentacao_pagamento_parcela",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_movimentacao_produto",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_municipio",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_ncm",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_nfe",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_nfe_enviada_filial",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_pais",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_pdv",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_planCont",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_produto",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_produto_filial",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_rede",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_regioes_br",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_relacao_produto_cadastro_XML",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_resEventoNFe",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_resposta_NFe",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_secao_produto",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_sub_forma_pagamento",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_subcategoria_produto",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_unidade_monetaria",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}

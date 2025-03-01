@@ -1,0 +1,107 @@
+[
+  {
+    "ContainingType": "APP_Sytem.API.Controllers.ClienteController",
+    "Method": "DeletarCadastroCliente",
+    "RelativePath": "api/Cliente/{_idCliente}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_idCliente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APP_Sytem.API.Controllers.ClienteController",
+    "Method": "SelecionarClienteId",
+    "RelativePath": "api/Cliente/{_idCliente}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_idCliente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APP_Sytem.API.Controllers.ClienteController",
+    "Method": "AlterarCadastroCliente",
+    "RelativePath": "api/Cliente/AlterarCadastroCliente",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_cliente",
+        "Type": "APP_Sytem.API.Models.TbAtor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APP_Sytem.API.Controllers.ClienteController",
+    "Method": "PostClientes",
+    "RelativePath": "api/Cliente/CadastrarCliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_clienteDTO",
+        "Type": "APP_Sytem.API.DTOs.ClienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APP_Sytem.API.Controllers.ClienteController",
+    "Method": "GetClientes",
+    "RelativePath": "api/Cliente/SelecionarTodos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[APP_Sytem.API.Models.TbAtor, APP_Sytem.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APP_Sytem.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[APP_Sytem.API.WeatherForecast, APP_Sytem.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
