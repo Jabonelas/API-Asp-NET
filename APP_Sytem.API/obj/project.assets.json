@@ -1264,6 +1264,57 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "APP_System.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "APP_System.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/APP_System.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APP_System.Application.dll": {}
+        }
+      },
+      "APP_System.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/APP_System.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APP_System.Domain.dll": {}
+        }
+      },
+      "APP_System.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "APP_System.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/APP_System.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APP_System.Infra.Data.dll": {}
+        }
+      },
+      "APP_System.Infra.Ioc/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "APP_System.Application": "1.0.0",
+          "APP_System.Domain": "1.0.0",
+          "APP_System.Infra.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/APP_System.Infra.Ioc.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APP_System.Infra.Ioc.dll": {}
+        }
       }
     }
   },
@@ -3791,12 +3842,34 @@
         "system.threading.channels.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "APP_System.Application/1.0.0": {
+      "type": "project",
+      "path": "../APP_System.Application/APP_System.Application.csproj",
+      "msbuildProject": "../APP_System.Application/APP_System.Application.csproj"
+    },
+    "APP_System.Domain/1.0.0": {
+      "type": "project",
+      "path": "../APP_System.Domain/APP_System.Domain.csproj",
+      "msbuildProject": "../APP_System.Domain/APP_System.Domain.csproj"
+    },
+    "APP_System.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../APP_System.Infra.Data/APP_System.Infra.Data.csproj",
+      "msbuildProject": "../APP_System.Infra.Data/APP_System.Infra.Data.csproj"
+    },
+    "APP_System.Infra.Ioc/1.0.0": {
+      "type": "project",
+      "path": "../APP_System.Infra.Ioc/APP_System.Infra.Ioc.csproj",
+      "msbuildProject": "../APP_System.Infra.Ioc/APP_System.Infra.Ioc.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "APP_System.Infra.Ioc >= 1.0.0",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "Microsoft.EntityFrameworkCore >= 9.0.2",
+      "Microsoft.EntityFrameworkCore.Design >= 9.0.2",
       "Microsoft.EntityFrameworkCore.Sqlite >= 9.0.2",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.2",
       "Swashbuckle.AspNetCore >= 6.6.2"
@@ -3835,7 +3908,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Ioc\\APP_System.Infra.Ioc.csproj": {
+              "projectPath": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Ioc\\APP_System.Infra.Ioc.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -3858,6 +3935,12 @@
             "version": "[12.0.1, )"
           },
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[9.0.2, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[9.0.2, )"
           },

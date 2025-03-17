@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Application\APP_System.Application.csproj</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Domain\APP_System.Domain.csproj</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Data\APP_System.Infra.Data.csproj</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>AppCapabilitiesGeraClasses\GeraClasses.csproj</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\GeraClasses\GeraClasses.csproj</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
