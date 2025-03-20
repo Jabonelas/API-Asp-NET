@@ -40,8 +40,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "_cliente",
-        "Type": "APP_Sytem.API.Models.TbAtor",
+        "Name": "_clienteDTO",
+        "Type": "APP_Sytem.API.DTOs.ClienteDTO",
         "IsRequired": true
       }
     ],

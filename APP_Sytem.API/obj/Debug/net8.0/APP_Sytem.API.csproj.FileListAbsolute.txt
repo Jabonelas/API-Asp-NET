@@ -159,3 +159,12 @@ C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\obj\Debug\net8.0\ref\APP
 C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\efpt.config.json
 C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\APP_System.Application.dll
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\APP_System.Domain.dll
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\APP_System.Infra.Data.dll
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\APP_System.Infra.Ioc.dll
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\APP_System.Infra.Ioc.pdb
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\APP_System.Application.pdb
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\APP_System.Domain.pdb
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\APP_System.Infra.Data.pdb
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\obj\Debug\net8.0\APP_Sytem.API.sourcelink.json

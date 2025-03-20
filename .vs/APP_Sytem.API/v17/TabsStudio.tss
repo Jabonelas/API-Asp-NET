@@ -11,10 +11,25 @@
       <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Data\APP_System.Infra.Data.csproj</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>AppCapabilitiesGeraClasses\GeraClasses.csproj</string>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\GeraClasses\GeraClasses.csproj</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>C:\Users\israe\source\repos\APP_Sytem.API\GeraClasses\GeraClasses.csproj</string>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Data\Context\ApplicationDbContext.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Domain\Entities\Cliente.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Domain\Validation\DomainExcepitionValidation.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Ioc\DependencyInjectionSwagger.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Ioc\APP_System.Infra.Ioc.csproj</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Program.cs</string>
     </ArrayOfString>
   </ArrayOfArrayOfString>
 </ArrayOfArrayOfArrayOfString>

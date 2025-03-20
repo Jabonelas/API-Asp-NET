@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "31g/7koY0d4=",
+  "dgSpecHash": "JesBdVGi4Gw=",
   "success": true,
   "projectFilePath": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\GeraClasses\\GeraClasses.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\israe\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.2\\microsoft.entityframeworkcore.relational.9.0.2.nupkg.sha512",
     "C:\\Users\\israe\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.2\\microsoft.entityframeworkcore.sqlite.9.0.2.nupkg.sha512",
     "C:\\Users\\israe\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.2\\microsoft.entityframeworkcore.sqlite.core.9.0.2.nupkg.sha512",
+    "C:\\Users\\israe\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.2\\microsoft.entityframeworkcore.tools.9.0.2.nupkg.sha512",
     "C:\\Users\\israe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\israe\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.2\\microsoft.extensions.caching.abstractions.9.0.2.nupkg.sha512",
     "C:\\Users\\israe\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.2\\microsoft.extensions.caching.memory.9.0.2.nupkg.sha512",

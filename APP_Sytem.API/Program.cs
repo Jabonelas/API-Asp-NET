@@ -1,3 +1,4 @@
+using APP_System.Infra.Ioc;
 using APP_Sytem.API.Interfaces;
 using APP_Sytem.API.Mappings;
 using APP_Sytem.API.Models;
@@ -22,7 +23,8 @@ namespace APP_Sytem.API
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+            builder.Services.AddInfrastructureSwagger();
+            //builder.Services.AddSwaggerGen();
 
             builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
             builder.Services.AddAutoMapper(typeof(EntitiesToDTOMappingProfile));
