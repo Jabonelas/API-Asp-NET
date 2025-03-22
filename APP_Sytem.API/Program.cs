@@ -1,3 +1,4 @@
+using System.Security.Cryptography.X509Certificates;
 using APP_System.Infra.Ioc;
 using APP_Sytem.API.Interfaces;
 using APP_Sytem.API.Mappings;
@@ -25,6 +26,7 @@ namespace APP_Sytem.API
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddInfrastructureSwagger();
             //builder.Services.AddSwaggerGen();
+            builder.Services.AddInfrastructure(builder.Configuration);
 
             builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
             builder.Services.AddAutoMapper(typeof(EntitiesToDTOMappingProfile));

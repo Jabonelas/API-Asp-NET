@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeraClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32edc30f8b15ef687198acf47182d0a09978994c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aae5491aab05ebf26583a2f48bf1d1816689b70")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeraClasses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeraClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
