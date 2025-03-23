@@ -11,7 +11,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
-using APP_Sytem.API.Interfaces;
 
 namespace APP_System.Infra.Ioc
 {
@@ -46,15 +45,15 @@ namespace APP_System.Infra.Ioc
                 };
             });
 
-            service.AddAutoMapper(typeof(DomainToDTOMappingProfile));
+            //service.AddAutoMapper(typeof(DomainToDTOMappingProfile));
 
             //Repository
-            service.AddScoped<IClienteRepository, ClienteRepository>();
-            service.AddScoped<IUsuarioRepository, UsuarioRepository>();
+            //service.AddScoped<IClienteRepository, ClienteRepository>();
+            //service.AddScoped<IUsuarioRepository, UsuarioRepository>();
 
             //Services
-            service.AddScoped<IClienteService, ClienteService>();
-            service.AddScoped<IUsuarioService, UsuarioService>();
+            //service.AddScoped<IClienteService, ClienteService>();
+            //service.AddScoped<IUsuarioService, UsuarioService>();
             service.AddScoped<IAuthenticate, AuthenticateService>();
 
             return service;

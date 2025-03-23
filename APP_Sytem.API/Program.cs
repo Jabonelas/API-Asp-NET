@@ -1,4 +1,6 @@
 using System.Security.Cryptography.X509Certificates;
+using APP_System.Domain.Account;
+using APP_System.Infra.Data.Identity;
 using APP_System.Infra.Ioc;
 using APP_Sytem.API.Interfaces;
 using APP_Sytem.API.Mappings;
@@ -29,6 +31,8 @@ namespace APP_Sytem.API
             builder.Services.AddInfrastructure(builder.Configuration);
 
             builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
+            builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+            builder.Services.AddScoped<IAuthenticate, AuthenticateService>();
             builder.Services.AddAutoMapper(typeof(EntitiesToDTOMappingProfile));
 
             var app = builder.Build();
@@ -42,6 +46,7 @@ namespace APP_Sytem.API
 
             app.UseHttpsRedirection();
 
+            //app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllers();

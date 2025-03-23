@@ -18,6 +18,13 @@ namespace APP_System.Infra.Data.Identity
         private readonly ApplicationDbContext _context;
         private readonly IConfiguration _configuration;
 
+        // Construtor para injetar dependências
+        public AuthenticateService(ApplicationDbContext context, IConfiguration configuration)
+        {
+            _context = context ?? throw new ArgumentNullException(nameof(context));
+            _configuration = configuration ?? throw new ArgumentNullException(nameof(configuration));
+        }
+
         public string GenerateToken(int _id, string _email)
         {
             var claims = new[]

@@ -11,7 +11,7 @@ namespace APP_System.Infra.Data.Context
 {
     public class ApplicationDbContext : DbContext
     {
-        protected ApplicationDbContext(DbContextOptions options) : base(options)
+        public ApplicationDbContext(DbContextOptions options) : base(options)
         {
         }
 

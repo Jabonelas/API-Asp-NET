@@ -1,22 +1,27 @@
-﻿using APP_Sytem.API.DTOs;
+﻿using APP_System.Infra.Ioc;
+using APP_Sytem.API.DTOs;
 using APP_Sytem.API.Interfaces;
 using APP_Sytem.API.Models;
 using APP_Sytem.API.Repository;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace APP_Sytem.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
     public class ClienteController : Controller
     {
         public readonly IClienteRepository iClienteRepository;
+        public readonly IUsuarioRepository usuarioRepository;
         public readonly IMapper mapper;
 
-        public ClienteController(IClienteRepository _iClienteRepository, IMapper _mapper)
+        public ClienteController(IClienteRepository _iClienteRepository, IUsuarioRepository _usuarioRepository, IMapper _mapper)
         {
             iClienteRepository = _iClienteRepository;
+            usuarioRepository = _usuarioRepository;
             mapper = _mapper;
         }
 
@@ -75,6 +80,15 @@ namespace APP_Sytem.API.Controllers
         [HttpDelete("{_idCliente}")]
         public async Task<ActionResult> DeletarCadastroCliente(int _idCliente)
         {
+            var userID = User.GetId();
+
+            bool usuarioADM = usuarioRepository.IsUsuarioADM(userID);
+
+            if (usuarioADM == false)
+            {
+                return Ok("O cliente não possui autorização para esta ação!");
+            }
+
             TbAtor clienteSelecionado = await iClienteRepository.SelecionarCliente(_idCliente);
 
             if (clienteSelecionado == null)

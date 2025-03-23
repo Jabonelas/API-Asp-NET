@@ -5,15 +5,13 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APP_Sytem.API", "APP_Sytem.API\APP_Sytem.API.csproj", "{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APP_System.Domain", "APP_System.Domain\APP_System.Domain.csproj", "{69502895-4629-49D7-8C36-4675C88A2024}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APP_System.Domain", "APP_System.Domain\APP_System.Domain.csproj", "{69502895-4629-49D7-8C36-4675C88A2024}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APP_System.Infra.Data", "APP_System.Infra.Data\APP_System.Infra.Data.csproj", "{17E32F19-D074-4B42-8505-CF34E30B1BE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APP_System.Infra.Data", "APP_System.Infra.Data\APP_System.Infra.Data.csproj", "{17E32F19-D074-4B42-8505-CF34E30B1BE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APP_System.Infra.Ioc", "APP_System.Infra.Ioc\APP_System.Infra.Ioc.csproj", "{9763C305-E763-43BD-853F-FF54D7A6CF65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APP_System.Infra.Ioc", "APP_System.Infra.Ioc\APP_System.Infra.Ioc.csproj", "{9763C305-E763-43BD-853F-FF54D7A6CF65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APP_System.Application", "APP_System.Application\APP_System.Application.csproj", "{C4EDF4F8-1C15-417C-921B-3265BEF2B56C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeraClasses", "GeraClasses\GeraClasses.csproj", "{92363872-8514-4D05-BF11-E79E26A260A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APP_System.Application", "APP_System.Application\APP_System.Application.csproj", "{C4EDF4F8-1C15-417C-921B-3265BEF2B56C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +39,6 @@ Global
 		{C4EDF4F8-1C15-417C-921B-3265BEF2B56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4EDF4F8-1C15-417C-921B-3265BEF2B56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4EDF4F8-1C15-417C-921B-3265BEF2B56C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{92363872-8514-4D05-BF11-E79E26A260A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{92363872-8514-4D05-BF11-E79E26A260A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{92363872-8514-4D05-BF11-E79E26A260A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{92363872-8514-4D05-BF11-E79E26A260A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

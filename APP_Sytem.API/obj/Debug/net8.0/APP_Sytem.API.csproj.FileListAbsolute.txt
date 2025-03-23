@@ -168,3 +168,11 @@ C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\APP_Sys
 C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\APP_System.Domain.pdb
 C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\APP_System.Infra.Data.pdb
 C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\obj\Debug\net8.0\APP_Sytem.API.sourcelink.json
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

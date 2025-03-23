@@ -84,6 +84,52 @@
     ]
   },
   {
+    "ContainingType": "APP_Sytem.API.Controllers.UsuarioController",
+    "Method": "Index",
+    "RelativePath": "Api/Usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "APP_Sytem.API.Models.UserToken",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APP_Sytem.API.Controllers.UsuarioController",
+    "Method": "Selecionar",
+    "RelativePath": "Api/Usuario/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModel",
+        "Type": "APP_Sytem.API.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APP_Sytem.API.Models.UserToken",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "APP_Sytem.API.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

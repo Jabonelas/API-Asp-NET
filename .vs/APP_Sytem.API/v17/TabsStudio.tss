@@ -11,9 +11,6 @@
       <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Data\APP_System.Infra.Data.csproj</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>C:\Users\israe\source\repos\APP_Sytem.API\GeraClasses\GeraClasses.csproj</string>
-    </ArrayOfString>
-    <ArrayOfString>
       <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Data\Context\ApplicationDbContext.cs</string>
     </ArrayOfString>
     <ArrayOfString>
@@ -30,9 +27,6 @@
     </ArrayOfString>
     <ArrayOfString>
       <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Ioc\DependecyInjection.cs</string>
-    </ArrayOfString>
-    <ArrayOfString>
-      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\appsettings.json</string>
     </ArrayOfString>
     <ArrayOfString>
       <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Controllers\UsuarioController.cs</string>
@@ -54,6 +48,27 @@
     </ArrayOfString>
     <ArrayOfString>
       <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Controllers\ClienteController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Ioc\APP_System.Infra.Ioc.csproj</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\appsettings.json</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Models\LoginModel.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Repository\ClienteRepository.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Interfaces\IUsuarioRepository.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Repository\UsuarioRepository.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Ioc\ClaimsPricipalExtesion.cs</string>
     </ArrayOfString>
   </ArrayOfArrayOfString>
 </ArrayOfArrayOfArrayOfString>
