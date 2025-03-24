@@ -1,4 +1,4 @@
-﻿namespace APP_Sytem.API.Interfaces
+﻿namespace APP_System.Domain.Interfaces
 {
     public interface IUsuarioRepository
     {

@@ -1,8 +1,8 @@
 using System.Security.Cryptography.X509Certificates;
 using APP_System.Domain.Account;
+using APP_System.Domain.Interfaces;
 using APP_System.Infra.Data.Identity;
 using APP_System.Infra.Ioc;
-using APP_Sytem.API.Interfaces;
 using APP_Sytem.API.Mappings;
 using APP_Sytem.API.Models;
 using APP_Sytem.API.Repository;

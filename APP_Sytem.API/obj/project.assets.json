@@ -4184,9 +4184,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\APP_Sytem.API.csproj",
-      "projectName": "APP_Sytem.API",
-      "projectPath": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\APP_Sytem.API.csproj",
+      "projectUniqueName": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\APP_System.API.csproj",
+      "projectName": "APP_System.API",
+      "projectPath": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\APP_System.API.csproj",
       "packagesPath": "C:\\Users\\israe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\obj\\",
       "projectStyle": "PackageReference",

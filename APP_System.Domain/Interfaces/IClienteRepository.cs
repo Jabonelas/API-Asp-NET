@@ -1,6 +1,6 @@
 ﻿using APP_Sytem.API.Models;
 
-namespace APP_Sytem.API.Interfaces
+namespace APP_System.Domain.Interfaces
 {
     public interface IClienteRepository
     {

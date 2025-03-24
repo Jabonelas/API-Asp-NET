@@ -1,5 +1,6 @@
-﻿using APP_Sytem.API.Interfaces;
+﻿using APP_System.Domain.Interfaces;
 using APP_Sytem.API.Models;
+using APP_Sytem.API.Repository;
 using Microsoft.EntityFrameworkCore;
 
 namespace APP_Sytem.API.Repository

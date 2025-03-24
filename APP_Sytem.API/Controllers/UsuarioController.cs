@@ -1,5 +1,5 @@
 ﻿using APP_System.Domain.Account;
-using APP_Sytem.API.Interfaces;
+using APP_System.Domain.Interfaces;
 using APP_Sytem.API.Models;
 using APP_Sytem.API.Repository;
 using Microsoft.AspNetCore.Mvc;

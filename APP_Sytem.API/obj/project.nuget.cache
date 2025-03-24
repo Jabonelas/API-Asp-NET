@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "91dFkDNp+Vc=",
+  "dgSpecHash": "9CVXgMtbx84=",
   "success": true,
-  "projectFilePath": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\APP_Sytem.API.csproj",
+  "projectFilePath": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\APP_System.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\israe\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\israe\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

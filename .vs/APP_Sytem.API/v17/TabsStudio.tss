@@ -32,43 +32,31 @@
       <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Controllers\UsuarioController.cs</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Models\UserToken.cs</string>
-    </ArrayOfString>
-    <ArrayOfString>
-      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\APP_Sytem.API.csproj</string>
-    </ArrayOfString>
-    <ArrayOfString>
       <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Domain\Account\IAuthenticate.cs</string>
     </ArrayOfString>
     <ArrayOfString>
       <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Data\Identity\AuthenticateService.cs</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Interfaces\IClienteRepository.cs</string>
-    </ArrayOfString>
-    <ArrayOfString>
       <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Controllers\ClienteController.cs</string>
-    </ArrayOfString>
-    <ArrayOfString>
-      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Ioc\APP_System.Infra.Ioc.csproj</string>
     </ArrayOfString>
     <ArrayOfString>
       <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\appsettings.json</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Models\LoginModel.cs</string>
-    </ArrayOfString>
-    <ArrayOfString>
-      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Repository\ClienteRepository.cs</string>
-    </ArrayOfString>
-    <ArrayOfString>
-      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Interfaces\IUsuarioRepository.cs</string>
-    </ArrayOfString>
-    <ArrayOfString>
-      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_Sytem.API\Repository\UsuarioRepository.cs</string>
-    </ArrayOfString>
-    <ArrayOfString>
       <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Ioc\ClaimsPricipalExtesion.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Data\Repository\ClienteRepository.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Domain\Interfaces\IUsuarioRepository.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Domain\Interfaces\IClienteRepository.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\israe\source\repos\APP_Sytem.API\APP_System.Infra.Data\Repository\UsuarioRepository.cs</string>
     </ArrayOfString>
   </ArrayOfArrayOfString>
 </ArrayOfArrayOfArrayOfString>

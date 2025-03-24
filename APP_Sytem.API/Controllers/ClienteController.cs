@@ -1,6 +1,6 @@
-﻿using APP_System.Infra.Ioc;
+﻿using APP_System.Domain.Interfaces;
+using APP_System.Infra.Ioc;
 using APP_Sytem.API.DTOs;
-using APP_Sytem.API.Interfaces;
 using APP_Sytem.API.Models;
 using APP_Sytem.API.Repository;
 using AutoMapper;
