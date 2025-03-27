@@ -11,10 +11,11 @@ namespace APP_Sytem.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize]
     public class ClienteController : Controller
     {
+        //[Authorize]
         public readonly IClienteRepository iClienteRepository;
+
         public readonly IUsuarioRepository usuarioRepository;
         public readonly IMapper mapper;
 

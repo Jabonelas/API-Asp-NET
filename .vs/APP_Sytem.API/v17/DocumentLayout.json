@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|solutionrelative:app_system.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_sytem.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|solutionrelative:app_sytem.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|solutionrelative:app_system.domain\\validation\\domainexcepitionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|solutionrelative:app_system.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9763C305-E763-43BD-853F-FF54D7A6CF65}|APP_System.Infra.Ioc\\APP_System.Infra.Ioc.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.infra.ioc\\claimspricipalextesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9763C305-E763-43BD-853F-FF54D7A6CF65}|APP_System.Infra.Ioc\\APP_System.Infra.Ioc.csproj|solutionrelative:app_system.infra.ioc\\claimspricipalextesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Data\\Repository\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "APP_System.Infra.Data\\Repository\\UsuarioRepository.cs",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Interfaces\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "APP_System.Domain\\Interfaces\\IClienteRepository.cs",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Interfaces\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "APP_System.Domain\\Interfaces\\IUsuarioRepository.cs",
@@ -134,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Data\\Repository\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "APP_System.Infra.Data\\Repository\\ClienteRepository.cs",
@@ -170,20 +170,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "APP_Sytem.API\\Controllers\\ClienteController.cs",
               "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "APP_Sytem.API\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAApwEUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T01:40:51.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AuthenticateService.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Data\\Identity\\AuthenticateService.cs",
               "RelativeDocumentMoniker": "APP_System.Infra.Data\\Identity\\AuthenticateService.cs",
@@ -195,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IAuthenticate.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Account\\IAuthenticate.cs",
               "RelativeDocumentMoniker": "APP_System.Domain\\Account\\IAuthenticate.cs",
@@ -219,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DependecyInjection.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Ioc\\DependecyInjection.cs",
               "RelativeDocumentMoniker": "APP_System.Infra.Ioc\\DependecyInjection.cs",
@@ -255,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "DomainExcepitionValidation.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Validation\\DomainExcepitionValidation.cs",
               "RelativeDocumentMoniker": "APP_System.Domain\\Validation\\DomainExcepitionValidation.cs",
@@ -267,19 +267,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "APP_System.Domain\\Entities\\Cliente.cs",
               "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Entities\\Cliente.cs",
               "RelativeToolTip": "APP_System.Domain\\Entities\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T22:36:13.544Z"
+              "WhenOpened": "2025-03-17T22:36:13.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Data\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "APP_System.Infra.Data\\Context\\ApplicationDbContext.cs",
@@ -291,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "APP_System.Infra.Data.csproj",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Data\\APP_System.Infra.Data.csproj",
               "RelativeDocumentMoniker": "APP_System.Infra.Data\\APP_System.Infra.Data.csproj",
@@ -303,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "APP_System.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\APP_System.Domain.csproj",
               "RelativeDocumentMoniker": "APP_System.Domain\\APP_System.Domain.csproj",
@@ -315,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "APP_System.Application.csproj",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Application\\APP_System.Application.csproj",
               "RelativeDocumentMoniker": "APP_System.Application\\APP_System.Application.csproj",
