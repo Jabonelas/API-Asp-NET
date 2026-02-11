@@ -2,6 +2,42 @@
 <ArrayOfTabHighlightState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <TabHighlightState>
     <extensions>
+      <string>APP_System.Domain\Models\UserToken.cs</string>
+    </extensions>
+    <highlightIndex>1</highlightIndex>
+  </TabHighlightState>
+  <TabHighlightState>
+    <extensions>
+      <string>APP_Sytem.API\appsettings.json</string>
+    </extensions>
+    <highlightIndex>1</highlightIndex>
+  </TabHighlightState>
+  <TabHighlightState>
+    <extensions>
+      <string>APP_System.Infra.Data\Identity\AuthenticateService.cs</string>
+    </extensions>
+    <highlightIndex>1</highlightIndex>
+  </TabHighlightState>
+  <TabHighlightState>
+    <extensions>
+      <string>APP_System.Domain\Account\IAuthenticate.cs</string>
+    </extensions>
+    <highlightIndex>1</highlightIndex>
+  </TabHighlightState>
+  <TabHighlightState>
+    <extensions>
+      <string>APP_Sytem.API\Controllers\UsuarioController.cs</string>
+    </extensions>
+    <highlightIndex>1</highlightIndex>
+  </TabHighlightState>
+  <TabHighlightState>
+    <extensions>
+      <string>APP_System.Infra.Ioc\DependecyInjection.cs</string>
+    </extensions>
+    <highlightIndex>1</highlightIndex>
+  </TabHighlightState>
+  <TabHighlightState>
+    <extensions>
       <string>APP_Sytem.API\Program.cs</string>
     </extensions>
     <highlightIndex>1</highlightIndex>

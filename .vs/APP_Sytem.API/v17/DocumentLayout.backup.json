@@ -3,56 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|solutionrelative:app_system.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_sytem.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|solutionrelative:app_sytem.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.domain\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|solutionrelative:app_system.domain\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_sytem.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|solutionrelative:app_sytem.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.infra.data\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|solutionrelative:app_system.infra.data\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9763C305-E763-43BD-853F-FF54D7A6CF65}|APP_System.Infra.Ioc\\APP_System.Infra.Ioc.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.infra.ioc\\dependencyinjectionswagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9763C305-E763-43BD-853F-FF54D7A6CF65}|APP_System.Infra.Ioc\\APP_System.Infra.Ioc.csproj|solutionrelative:app_system.infra.ioc\\dependencyinjectionswagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.infra.data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|solutionrelative:app_system.infra.data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_sytem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|solutionrelative:app_sytem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4EDF4F8-1C15-417C-921B-3265BEF2B56C}|APP_System.Application\\APP_System.Application.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.application\\app_system.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C4EDF4F8-1C15-417C-921B-3265BEF2B56C}|APP_System.Application\\APP_System.Application.csproj|solutionrelative:app_system.application\\app_system.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|solutionrelative:app_system.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.infra.data\\app_system.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|solutionrelative:app_system.infra.data\\app_system.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.infra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|solutionrelative:app_system.infra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.domain\\app_system.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|solutionrelative:app_system.domain\\app_system.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.infra.data\\identity\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|solutionrelative:app_system.infra.data\\identity\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_sytem.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|solutionrelative:app_sytem.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.domain\\account\\iauthenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|solutionrelative:app_system.domain\\account\\iauthenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.infra.data\\identity\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|solutionrelative:app_system.infra.data\\identity\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.infra.data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|solutionrelative:app_system.infra.data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.infra.data\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|solutionrelative:app_system.infra.data\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|solutionrelative:app_system.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_sytem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|solutionrelative:app_sytem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9763C305-E763-43BD-853F-FF54D7A6CF65}|APP_System.Infra.Ioc\\APP_System.Infra.Ioc.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.infra.ioc\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9763C305-E763-43BD-853F-FF54D7A6CF65}|APP_System.Infra.Ioc\\APP_System.Infra.Ioc.csproj|solutionrelative:app_system.infra.ioc\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.infra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E32F19-D074-4B42-8505-CF34E30B1BE5}|APP_System.Infra.Data\\APP_System.Infra.Data.csproj|solutionrelative:app_system.infra.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.domain\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|solutionrelative:app_system.domain\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.domain\\models\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|solutionrelative:app_system.domain\\models\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.domain\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|solutionrelative:app_system.domain\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|solutionrelative:app_system.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69502895-4629-49D7-8C36-4675C88A2024}|APP_System.Domain\\APP_System.Domain.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.domain\\validation\\domainexcepitionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,22 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9763C305-E763-43BD-853F-FF54D7A6CF65}|APP_System.Infra.Ioc\\APP_System.Infra.Ioc.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.infra.ioc\\claimspricipalextesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9763C305-E763-43BD-853F-FF54D7A6CF65}|APP_System.Infra.Ioc\\APP_System.Infra.Ioc.csproj|solutionrelative:app_system.infra.ioc\\claimspricipalextesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9763C305-E763-43BD-853F-FF54D7A6CF65}|APP_System.Infra.Ioc\\APP_System.Infra.Ioc.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_system.infra.ioc\\dependencyinjectionswagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9763C305-E763-43BD-853F-FF54D7A6CF65}|APP_System.Infra.Ioc\\APP_System.Infra.Ioc.csproj|solutionrelative:app_system.infra.ioc\\dependencyinjectionswagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_sytem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|solutionrelative:app_sytem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_sytem.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|solutionrelative:app_sytem.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|c:\\users\\israe\\source\\repos\\app_sytem.api\\app_sytem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8823585F-FCB9-425E-A9DB-7FBB58F2BBBC}|APP_Sytem.API\\APP_System.API.csproj|solutionrelative:app_sytem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,6 +99,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "APP_Sytem.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\WeatherForecast.cs",
+              "RelativeToolTip": "APP_Sytem.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:15:28.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "APP_System.Domain\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Models\\LoginModel.cs",
+              "RelativeToolTip": "APP_System.Domain\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:08:41.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserToken.cs",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Models\\UserToken.cs",
+              "RelativeDocumentMoniker": "APP_System.Domain\\Models\\UserToken.cs",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Models\\UserToken.cs",
+              "RelativeToolTip": "APP_System.Domain\\Models\\UserToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:53:53.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Data\\Repository\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "APP_System.Infra.Data\\Repository\\UsuarioRepository.cs",
@@ -110,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "IClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Interfaces\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "APP_System.Domain\\Interfaces\\IClienteRepository.cs",
@@ -122,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Interfaces\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "APP_System.Domain\\Interfaces\\IUsuarioRepository.cs",
@@ -134,19 +170,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Data\\Repository\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "APP_System.Infra.Data\\Repository\\ClienteRepository.cs",
               "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Data\\Repository\\ClienteRepository.cs",
               "RelativeToolTip": "APP_System.Infra.Data\\Repository\\ClienteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T23:18:48.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "ClaimsPricipalExtesion.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Ioc\\ClaimsPricipalExtesion.cs",
               "RelativeDocumentMoniker": "APP_System.Infra.Ioc\\ClaimsPricipalExtesion.cs",
@@ -158,104 +194,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\appsettings.json",
               "RelativeDocumentMoniker": "APP_Sytem.API\\appsettings.json",
               "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\appsettings.json",
               "RelativeToolTip": "APP_Sytem.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-23T21:05:25.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "APP_Sytem.API\\Controllers\\ClienteController.cs",
               "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "APP_Sytem.API\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T01:40:51.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "AuthenticateService.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Data\\Identity\\AuthenticateService.cs",
               "RelativeDocumentMoniker": "APP_System.Infra.Data\\Identity\\AuthenticateService.cs",
               "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Data\\Identity\\AuthenticateService.cs",
               "RelativeToolTip": "APP_System.Infra.Data\\Identity\\AuthenticateService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T00:53:41.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "IAuthenticate.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Account\\IAuthenticate.cs",
               "RelativeDocumentMoniker": "APP_System.Domain\\Account\\IAuthenticate.cs",
               "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Account\\IAuthenticate.cs",
               "RelativeToolTip": "APP_System.Domain\\Account\\IAuthenticate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T00:51:19.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "APP_Sytem.API\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "APP_Sytem.API\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T00:47:34.076Z"
+              "WhenOpened": "2025-03-22T00:47:34.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "DependecyInjection.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Ioc\\DependecyInjection.cs",
               "RelativeDocumentMoniker": "APP_System.Infra.Ioc\\DependecyInjection.cs",
               "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Ioc\\DependecyInjection.cs",
               "RelativeToolTip": "APP_System.Infra.Ioc\\DependecyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T22:35:46.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\Program.cs",
               "RelativeDocumentMoniker": "APP_Sytem.API\\Program.cs",
               "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_Sytem.API\\Program.cs",
               "RelativeToolTip": "APP_Sytem.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwBwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T01:26:50.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
               "Title": "DependencyInjectionSwagger.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Ioc\\DependencyInjectionSwagger.cs",
               "RelativeDocumentMoniker": "APP_System.Infra.Ioc\\DependencyInjectionSwagger.cs",
               "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Ioc\\DependencyInjectionSwagger.cs",
               "RelativeToolTip": "APP_System.Infra.Ioc\\DependencyInjectionSwagger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T00:40:14.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "DomainExcepitionValidation.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Validation\\DomainExcepitionValidation.cs",
               "RelativeDocumentMoniker": "APP_System.Domain\\Validation\\DomainExcepitionValidation.cs",
@@ -267,64 +304,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "APP_System.Domain\\Entities\\Cliente.cs",
               "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\Entities\\Cliente.cs",
               "RelativeToolTip": "APP_System.Domain\\Entities\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T22:36:13.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T22:36:13.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Data\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "APP_System.Infra.Data\\Context\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Data\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "APP_System.Infra.Data\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T22:27:14.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "APP_System.Infra.Data.csproj",
-              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Data\\APP_System.Infra.Data.csproj",
-              "RelativeDocumentMoniker": "APP_System.Infra.Data\\APP_System.Infra.Data.csproj",
-              "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Infra.Data\\APP_System.Infra.Data.csproj",
-              "RelativeToolTip": "APP_System.Infra.Data\\APP_System.Infra.Data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-08T18:22:30.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "APP_System.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\APP_System.Domain.csproj",
-              "RelativeDocumentMoniker": "APP_System.Domain\\APP_System.Domain.csproj",
-              "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Domain\\APP_System.Domain.csproj",
-              "RelativeToolTip": "APP_System.Domain\\APP_System.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-08T18:21:58.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "APP_System.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Application\\APP_System.Application.csproj",
-              "RelativeDocumentMoniker": "APP_System.Application\\APP_System.Application.csproj",
-              "ToolTip": "C:\\Users\\israe\\source\\repos\\APP_Sytem.API\\APP_System.Application\\APP_System.Application.csproj",
-              "RelativeToolTip": "APP_System.Application\\APP_System.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-08T18:20:19.449Z"
             }
           ]
         },
