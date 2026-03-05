@@ -14,7 +14,7 @@ namespace APP_System.Infra.Data.Context
         public ApplicationDbContext(DbContextOptions options) : base(options)
         {
         }
-
+//teste
         public DbSet<Cliente> cliente { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
